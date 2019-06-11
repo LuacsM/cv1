@@ -1,0 +1,53 @@
+body{
+    background-color: #E6E6E6;
+}
+
+h1{
+  padding: 10px;
+  font-family: 'Concert One', cursive;
+}
+
+h2{
+  padding: 5px;
+  font-family: 'Concert One', cursive;
+}
+
+h4, h3, p{
+   font-family: 'Fresca', sans-serif;
+   padding: 5px;
+}
+
+.teste{
+  background-color: #fff;
+  padding: 5px;
+  text-align: center;
+  margin: 4px 0;
+  color: #9e9e9e;
+}
+
+.teste .detalhes{
+  text-align: left;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+
+.barrinha{
+  width: 90%;
+  height: 15px;
+  border-radius: 10px;
+  margin:5px;
+  background-color: #bcb9b9;
+  text-align: center;
+  color: #fff;
+}
+
+.detalhes img{
+  margin-right: 10px;
+}
+
+#box .teste{
+  padding-top: 14px;
+}
